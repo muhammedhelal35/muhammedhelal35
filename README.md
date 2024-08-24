@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Helal</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
-
+<hr>
 - 🌱 I’m currently learning **Full-Stack Development & Software Development**
 
 - 💬 Ask me about **Angular & .NET**
