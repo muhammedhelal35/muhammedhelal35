@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Helal</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <hr>
 
 # 💫 About Me:
