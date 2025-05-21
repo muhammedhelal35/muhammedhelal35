@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Helal</h1>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Mohammed+Helal+Piracha;Software+Engineer;Backend+Developer;%40muhammedhelal35">
 <hr>
 
 # 💫 About Me:
