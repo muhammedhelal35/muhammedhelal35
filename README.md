@@ -12,6 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=muhammedhelal35&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=muhammedhelal35&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhelal35&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammedhelal35&limit=5&theme=transparent&combine_all_yearly_contributions=true)
