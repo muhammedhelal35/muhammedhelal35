@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Helal</h1>
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="350" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" />
 <hr>
 
 # 💫 About Me:
